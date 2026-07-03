@@ -129,8 +129,6 @@ MONGODB_URI=your_mongodb_connection_string
 
 JWT_SECRET=your_secret_key
 
-GOOGLE_MAPS_API_KEY=your_google_maps_api_key
-
 EMAIL=your_email
 
 PASSWORD=your_email_password
@@ -158,37 +156,10 @@ npm run dev
 
 **Frontend**
 
-https://capstone-quick-ride-repo.onrender.com
+https://capstone-quick-ride-repo.vercel.app/
 
 ---
 
-## 📸 Screenshots
-
-### Landing Page
-
-```
-Add Screenshot Here
-```
-
-### User Dashboard
-
-```
-Add Screenshot Here
-```
-
-### Driver Dashboard
-
-```
-Add Screenshot Here
-```
-
-### Admin Dashboard
-
-```
-Add Screenshot Here
-```
-
----
 
 ## 🔒 Authentication
 
